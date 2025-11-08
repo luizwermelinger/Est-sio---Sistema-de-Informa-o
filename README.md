@@ -1,2 +1,2 @@
-# Est-sio---Sistema-de-Informa-o
+# Estasio---Sistema-de-Informação
 Projetos = Sistema de Informações
