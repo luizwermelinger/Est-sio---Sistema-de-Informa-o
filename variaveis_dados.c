@@ -19,7 +19,7 @@ int main(){
     quantidade = 10;
 
     /*
-    Nunca usar palavras reservadas tipo : int return, int int etc...
+    Nunca usar palavras reservadas a linguagem C exemplos : int return, int int etc...
     */
 
 
